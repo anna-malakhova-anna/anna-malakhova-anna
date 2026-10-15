@@ -4,4 +4,4 @@ the study of human cognition, and how it can inform intelligent systems, has bee
 
 in my free time, i build small tools whenever i stumble onto a cool sandbox or api. i'm also curious about how money actually moves: open banking, payment rails, and all the plumbing nobody notices until it breaks.
  
-27% proud korean, 73% tough slav, 100% melomaniac. you can usually find me on a spin bike, or at a japanese bbq grill undoing all of it.
+27% proud korean, 73% tough slav, 100% melomaniac. you can usually find me on a spin bike, or at a japanese bbq undoing all of it.
